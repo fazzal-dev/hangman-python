@@ -1,4 +1,4 @@
-#**Hangman Game in Python**#
+#**Hangman Game in Python**
 
 Welcome to Hangman, a classic word-guessing game implemented in Python! This game is a command-line interface (CLI) application that challenges players to guess a secret word by suggesting letters one at a time. With each incorrect guess, a part of a stick figure is drawn, and players must guess the word before the stick figure is completely drawn to win.
 
